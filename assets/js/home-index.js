@@ -1,3 +1,7 @@
+
+if( !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	
+   
 $(document).ready(function() {
 	$('.paraWrapper').mousemove(function(e) {
 		parallax(e, document.getElementById('c1'), 1);
@@ -21,3 +25,4 @@ function parallax(e, target, layer) {
 		left: x
 	});
 };
+}
