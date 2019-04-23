@@ -1,3 +1,0 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Batmanian/pen/ZydJEY.
-
- An interactive, responsive starfield jQuery plugin based on <a href="http://www.chiptune.com/">rez'</a> <a href="http://www.chromeexperiments.com/detail/starfield/">Chrome Experiment</a>. (The stars shift when you tilt your device!) | <a href="https://github.com/bigsweater/jQuery-Canvas-Starfield">Github</a>
