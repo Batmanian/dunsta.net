@@ -352,6 +352,7 @@ pre.lineno {
   background-size: cover; }
   #home .mobileWrapper h1 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 500;
     padding: 1rem 0 0.5rem 0;
     text-align: center; }
 #home .paraWrapper {
@@ -391,5 +392,8 @@ pre.lineno {
   background-image: url(../images/sky.png); }
 #home .paraWrapper #c2 {
   background-image: url(../images/name.png); }
+  @media (max-width: 801px) {
+    #home .paraWrapper #c2 {
+      background-position-x: 30%; } }
 #home .paraWrapper #c3 {
   background-image: url(../images/jack.png); }
