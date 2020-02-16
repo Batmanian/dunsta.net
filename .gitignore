@@ -1,4 +1,4 @@
-2016/
+SUDO2016/
 paralax/
 _site
 .DS_Store
@@ -7,3 +7,4 @@ _site
 *~
 _site/
 _posts/2018*.md 
+node_modules
